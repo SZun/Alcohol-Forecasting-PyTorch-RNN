@@ -52,10 +52,11 @@ $ jupyter lab
 
 ## Built With
 
+- [Torch](https://pytorch.org/docs/stable/torch.html)
+- [Scikit-Learn](https://scikit-learn.org/stable/#)
 - [Pandas](https://pandas.pydata.org/docs/#)
 - [Numpy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/stable/index.html)
-- [Statsmodels](https://www.statsmodels.org/stable/index.html#)
 - [Warnings](https://docs.python.org/3/library/warnings.html)
 
 ## Author
